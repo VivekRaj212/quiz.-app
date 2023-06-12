@@ -1,0 +1,23 @@
+
+.Result {
+
+    display: grid;
+    place-items: center;
+    height: 80vh;
+    padding-top: 100px;
+}
+
+.correct {
+
+    color: rgb(28, 238, 0);
+}
+
+.incorrect {
+
+    color: rgb(146, 9, 9);
+}
+
+.result-style {
+
+    background-color: rgb(33, 152, 207);
+}

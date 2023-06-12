@@ -1,0 +1,19 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    background-color: rgb(1, 43, 97);
+}
+
+.Error {
+
+    display: grid;
+    place-items: center;
+    height: 90vh;
+    text-align: center;
+}

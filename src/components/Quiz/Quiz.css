@@ -1,0 +1,22 @@
+
+
+.Quiz {
+
+    display: grid;
+    place-items: center;
+    height: 80vh;
+    
+}
+
+.align-input {
+
+    display: flex;
+    flex-direction: row;
+    font-size: 16px;
+}
+
+.all-buttons {
+
+    display: flex;
+    column-gap: 13px;
+}
